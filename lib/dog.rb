@@ -1,7 +1,7 @@
 class Dog
-  def .name=
+  def name
   end
 
-  def .bark
+  def bark
   end
 end
